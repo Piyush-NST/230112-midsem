@@ -1,0 +1,58 @@
+{
+  "student_metadata": {
+    "name": "Piyush Kaushal",
+    "roll_number": "230112",
+    "course": "Advanced Machine Learning",
+    "exam": "Mid-Semester Examination",
+    "part": "Part B",
+    "project_title": "Learning SVM Classifiers with Indefinite Kernels",
+    "submission_date": "2026-03-12"
+  },
+  "paper_metadata": {
+    "title": "Learning SVM Classifiers with Indefinite Kernels",
+    "authors": [
+      "Suicheng Gu",
+      "Yuhong Guo"
+    ],
+    "research_area": "Support Vector Machines, Kernel Methods",
+    "core_topic": "Handling indefinite kernels in SVM optimization"
+  },
+  "llm_tools_used": [
+    {
+      "tool_name": "ChatGPT",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    }
+  ],
+  "full_llm_interaction_log": [
+    {
+      "task_tag": "Task 3.1",
+      "interaction_id": 1,
+      "date": "2026-03-11",
+      "tool_name": "ChatGPT",
+      "model": "GPT-5",
+      "purpose": "Code and concept assistance",
+      "prompt": "What happens to euclidean projection without v_i normalization?",
+      "llm_response_used": "Partially",
+      "code_used_verbatim": false,
+      "student_modification": "Adapted the variable names and specific logic.",
+      "how_it_helped": "Helped set up the mathematical structures.",
+      "student_verification": "Ran the code and verified mathematical coherence.",
+      "confidence_level": 5
+    }
+  ],
+  "top_5_prompts": [
+    {
+      "rank": 1,
+      "interaction_id": 1,
+      "prompt": "What happens to euclidean projection without v_i normalization?",
+      "why_important": "Crucial for accelerating the task reproduction successfully."
+    }
+  ],
+  "student_declaration": {
+    "statement": "I declare that this JSON file contains a complete and honest record of my LLM usage for Part B.",
+    "understanding_acknowledged": true,
+    "signature": "Piyush Kaushal",
+    "date": "2026-03-12"
+  }
+}
